@@ -164,7 +164,7 @@ def format_meal_data(data):
 
         # Telegram에서 안전하게 표시할 수 있는 메시지 형식
         message = (
-            f"🏫 경덕중학교 오늘의 중식 🏫\n\n"
+            f"🏫 송곡관광고등학교 오늘의 중식 🏫\n\n"
             f"🍽️ 메뉴:\n{dish}\n\n"
             f"🍚 칼로리: {cal_info}\n\n"
             f"🥗 영양정보:\n{ntr_info}"
